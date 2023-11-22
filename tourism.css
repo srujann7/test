@@ -1,0 +1,19 @@
+.bg-card {
+    background-image: url("https://img.freepik.com/free-photo/sea-beach_1203-3227.jpg?w=360&t=st=1697560168~exp=1697560768~hmac=9ad76b3812c01fcd1d007f8bc26d4b39ef0e7c8e098e375d513a2dd7b9406843");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+.main-heading {
+    font-family: "Comic Sans MS";
+}
+.card-container {
+    background-color: #fcfcfc;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 25px;
+}
+.button {
+    background-color: #210096;
+    color: white;
+}
